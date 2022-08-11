@@ -1,5 +1,5 @@
-import React from 'react';
-import './Business.css';
+import React from 'react'
+import './Business.css'
 
 const business = {
   imageSrc: 'https://content.codecademy.com/programs/react/ravenous/pizza.jpg',
@@ -40,4 +40,4 @@ class Business extends React.Component {
   }
 }
 
-export default Business;
+export default Business
